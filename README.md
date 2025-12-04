@@ -7,6 +7,7 @@ It evaluates skills, experience level, matches against a job description, and ro
 This project is optimized for low-cost LLM calls, clean modular design, and real-world HR workflows.
 
 🚀 Features
+
 ✅ 1. Skill Matching (0–100 Score)
 
 Reads the candidate’s resume (.docx)
