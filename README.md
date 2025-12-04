@@ -1,4 +1,4 @@
-# AI-Resume-Screening-Agent-LangGraph-LangChain
+# AI-Resume Screening Agent
 
 
 A lightweight, fast, and cheap LLM-powered pipeline that screens job applications using LangGraph and GPT-4o-mini.
