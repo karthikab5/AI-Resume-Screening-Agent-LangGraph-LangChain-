@@ -65,17 +65,8 @@ Minimal prompt size
 No unnecessary model calls
 
 🧩 Architecture (Graph Overview)
-START
-  ↓
-skill_identifier
-  ↓
-experience_identifier
-  ↓
-   ROUTER ──> pass_hr
-          └─> save_candidate
-          └─> rejected_candidate
-  ↓
- END
+<img width="545" height="432" alt="image" src="https://github.com/user-attachments/assets/15b37a4a-0067-4f52-a924-be166c64e02f" />
+
 
 📦 Installation
 
